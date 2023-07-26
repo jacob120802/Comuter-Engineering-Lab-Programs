@@ -4,3 +4,5 @@ contains:
   2. Object Oriented Programming System (OOPS) using C++
   3. 80386 Microprcessor Programming using NASM assembly language
   4. Modern Algorithm Design Foundations (MADF) & Analysis (DAA) using C
+  5. Artificial Intelligence using Python
+  6. Computer Networks using C 
